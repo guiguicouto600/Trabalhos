@@ -1,3 +1,9 @@
+Sexto trabalho:
+
+def bubble_sort(arr):
+    n = len(arr)
+vogais = 'aeiouAEIOU'
+
 
 Quinto trabalho:
 
